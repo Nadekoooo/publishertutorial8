@@ -1,0 +1,9 @@
+C:\Kuliah\SEM 4\Adpro\Modul 9\tutorial8\publisher\target\debug\deps\futures_macro-f38885ca84514674.dll: C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\lib.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\executor.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\join.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\select.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\stream_select.rs
+
+C:\Kuliah\SEM 4\Adpro\Modul 9\tutorial8\publisher\target\debug\deps\futures_macro-f38885ca84514674.d: C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\lib.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\executor.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\join.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\select.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\stream_select.rs
+
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\lib.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\executor.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\join.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\select.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.25\src\stream_select.rs:

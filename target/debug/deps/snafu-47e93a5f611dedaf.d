@@ -1,0 +1,11 @@
+C:\Kuliah\SEM 4\Adpro\Modul 9\tutorial8\publisher\target\debug\deps\libsnafu-47e93a5f611dedaf.rmeta: C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\lib.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\backtrace_inert.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\error_chain.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\report.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\Snafu.md C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\report.md C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\../README.md
+
+C:\Kuliah\SEM 4\Adpro\Modul 9\tutorial8\publisher\target\debug\deps\snafu-47e93a5f611dedaf.d: C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\lib.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\backtrace_inert.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\error_chain.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\report.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\Snafu.md C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\report.md C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\../README.md
+
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\lib.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\backtrace_inert.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\error_chain.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\report.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\Snafu.md:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\report.md:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.3\src\../README.md:

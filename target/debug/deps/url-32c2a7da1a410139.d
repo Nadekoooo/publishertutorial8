@@ -1,0 +1,11 @@
+C:\Kuliah\SEM 4\Adpro\Modul 9\tutorial8\publisher\target\debug\deps\liburl-32c2a7da1a410139.rmeta: C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\lib.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\host.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\origin.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\parser.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\path_segments.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\slicing.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\quirks.rs
+
+C:\Kuliah\SEM 4\Adpro\Modul 9\tutorial8\publisher\target\debug\deps\url-32c2a7da1a410139.d: C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\lib.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\host.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\origin.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\parser.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\path_segments.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\slicing.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\quirks.rs
+
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\lib.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\host.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\origin.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\parser.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\path_segments.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\slicing.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\url-2.3.1\src\quirks.rs:

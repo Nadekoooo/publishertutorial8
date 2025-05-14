@@ -1,0 +1,10 @@
+C:\Kuliah\SEM 4\Adpro\Modul 9\tutorial8\publisher\target\debug\deps\libversion_check-b41e10e6bda8c197.rmeta: C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\lib.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\version.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\channel.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\date.rs
+
+C:\Kuliah\SEM 4\Adpro\Modul 9\tutorial8\publisher\target\debug\deps\libversion_check-b41e10e6bda8c197.rlib: C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\lib.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\version.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\channel.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\date.rs
+
+C:\Kuliah\SEM 4\Adpro\Modul 9\tutorial8\publisher\target\debug\deps\version_check-b41e10e6bda8c197.d: C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\lib.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\version.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\channel.rs C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\date.rs
+
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\lib.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\version.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\channel.rs:
+C:\Users\Nadekoooo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\version_check-0.9.4\src\date.rs:
