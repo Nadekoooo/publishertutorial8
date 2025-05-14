@@ -8,4 +8,4 @@ Dalam satu kali eksekusi, program publisher akan mengirim lima buah pesan `UserC
 
 URL `amqp://guest:guest@localhost:5672` adalah endpoint koneksi ke RabbitMQ server yang digunakan baik oleh publisher maupun subscriber. Ini menunjukkan bahwa keduanya terhubung ke broker yang sama, menggunakan kredensial yang sama (username dan password: `guest`). `localhost` berarti server RabbitMQ-nya berjalan di mesin lokal, bukan di server remote. Port `5672` adalah port default untuk protokol AMQP. Dengan menggunakan URL yang sama, publisher dapat mengirim pesan ke broker yang juga bisa dibaca oleh subscriber secara real-time. Ini penting karena menunjukkan bahwa sistem messaging bekerja di atas satu broker pusat. Jika URL-nya berbeda, maka kemungkinan besar publisher dan subscriber tidak akan bisa berkomunikasi satu sama lain karena broker-nya berbeda.
 
-![Alt text](images/example.png)
+![Alt text]([images/example.png](https://github.com/Nadekoooo/publishertutorial8/blob/master/image.png))
