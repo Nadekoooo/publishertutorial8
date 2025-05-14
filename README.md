@@ -16,6 +16,10 @@ Pada percobaan ini, program publisher dijalankan untuk mengirim lima pesan UserC
 
 ![Image](https://github.com/user-attachments/assets/ffe1a688-acc0-424f-876d-bdf388b4c9ef)
 
+Saat publisher dijalankan, RabbitMQ menerima pesan dan langsung mengirimkannya ke subscriber tanpa ada yang tertahan di antrian. Grafik message rate menunjukkan lonjakan singkat saat pesan dikirim, lalu kembali nol. Ini menandakan bahwa publisher dan subscriber sudah berjalan dan terhubung dengan baik.
+
+![Image](https://github.com/user-attachments/assets/ab542467-9227-4efd-9465-0f1691159e81)
+
 
 
 
